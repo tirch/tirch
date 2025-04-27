@@ -40,6 +40,7 @@ I am beginner teenager developer from Russia. Love programming and music!
 ### Brokers and cache
 <p>
   <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-rgb(255, 68, 56)?logo=redis&logoColor=white"></a>
+  <a href="#"><img alt="Kafka" src ="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white"></a>
 </p>
 
 
