@@ -25,16 +25,10 @@
   <img src="https://komarev.com/ghpvc/?username=tirch&color=1a1a1a&style=for-the-badge&labelColor=FFAE00" alt="Просмотры профиля"/>
 </p>
 
-## Something:
-- Writing my projects in Python
-- Active learning Kotlin
-
-## Here's what I know:
+## Here’s what I know (or have worked with):
 ### Languages
 <p>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Kotlin (learning)" src="https://img.shields.io/badge/Kotlin%20(learning)-7F52FF?logo=kotlin&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
